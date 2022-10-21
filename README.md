@@ -13,4 +13,4 @@ Then run the script
 Play the game and run the script in the background. To stop the script press `Shift + k`
 
 ## Demonstration
-[![pvz_gifa4193db4aa4fd0e6.th.gif](https://s1.gifyu.com/images/pvz_gifa4193db4aa4fd0e6.th.gif)](https://gifyu.com/image/S9AqU)
+![Demonstration](https://s1.gifyu.com/images/pvz_gif.gif)
