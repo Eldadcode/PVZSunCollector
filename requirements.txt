@@ -1,0 +1,4 @@
+keyboard==0.13.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work'
+Pillow==8.4.0'
+PyAutoGUI==0.9.53
